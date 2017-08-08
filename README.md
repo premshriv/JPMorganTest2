@@ -1,8 +1,8 @@
 # JPMorganTest
 
 # Example Assignment – Super Simple Stocks
-#Requirements
-1.	Provide working source code that will :-
+ Requirements
+1.	Provide working source code that will :
 	a.	For a given stock, 
 		i.	Given a market price as input, calculate the dividend yield
 		ii.	Given a market price as input,  calculate the P/E Ratio
