@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * GBCE Trading Place Test.
  *
- * @author gbesancon
+ * @author prem
  */
 public class SuperSimpleStocksTest
 {

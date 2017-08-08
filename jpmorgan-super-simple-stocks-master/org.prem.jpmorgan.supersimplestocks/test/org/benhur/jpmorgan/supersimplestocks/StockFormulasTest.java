@@ -14,7 +14,7 @@ import org.junit.Test;
 /**
  * Test for Stocks formulas.
  *
- * @author GBesancon
+ * @author prem
  */
 public class StockFormulasTest
 {

@@ -11,7 +11,7 @@ import org.benhur.jpmorgan.supersimplestocks.data.Trade.Indicator;
 /**
  * Trading place.
  *
- * @author gbesancon
+ * @author prem
  */
 public class GBCETradingPlace
 {

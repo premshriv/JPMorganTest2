@@ -14,7 +14,7 @@ import org.junit.Test;
 /**
  * Test for Trading service.
  *
- * @author gbesancon
+ * @author prem
  */
 public class TradingServiceTest
 {
