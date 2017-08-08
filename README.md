@@ -16,9 +16,12 @@
 		
 	b.	Calculate the GBCE All Share Index using the geometric mean of prices for all stocks 
 	
- Constraints & Notes 
+ Constraints & Notes  
+ 
 	1.	Written in one of these languages:
+	
 		•	Java, C#, C++, Python
+		
 	2.	No database or GUI is required, all data need only be held in memory
 
 
